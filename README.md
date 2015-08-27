@@ -6,3 +6,5 @@ Files all
 I love :pizza: :dancer: :zap:
 
 Author Diego Turconi
+
+Change from SmartGit
